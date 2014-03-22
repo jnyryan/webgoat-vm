@@ -1,5 +1,4 @@
 #vagrant-webgoat
-=================
 
 A Virtual Machine setup for WebGoat.
 
@@ -33,9 +32,9 @@ Password: guest
 
 ## Try to Pen Test it
 
-After logging in, read the introduction and have a go at hacking the system
-
+All the instructions are there on the website, so after logging in, read the introduction and have a go at hacking the system. ***Happy Hacking***
 
 ### References
-[OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
-[WebGoat install help](http://webappsecmovies.sourceforge.net/webgoat/
+
+- [OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+- [WebGoat install help](http://webappsecmovies.sourceforge.net/webgoat/)
