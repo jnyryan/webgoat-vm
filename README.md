@@ -26,12 +26,14 @@ You will need to install the following software:
 
 - Install [git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to allow you to pull down the code from GitHub Code Repository
 - Install VagrantUp on your system, see [VagrantUp](https://docs.vagrantup.com/v2/installation/)
+- Install  VirtualBox, a free, cross-platform consumer virtualization product.
+[Virtualbox](https://www.virtualbox.org/)
 
 ### Install WebGoat on a Virtual Machine
 
 ``` bash
-git clone https://github.com/jnyryan/vagrant-webgoat.git
-cd vagrant-webgoat
+git clone https://github.com/jnyryan/webgoat-vm.git
+cd webgoat-vm
 vagrant up
 
 ```
@@ -43,7 +45,7 @@ When Vagrant has run, WebGoat will be installed on a virtual machine and accessi
 Goto the following URL to
 
 ```
-http://127.0.0.1:50000/WebGoat/attack
+http://127.0.0.1:50000/WebGoat
 - Username: guest
 - Password: guest
 ```
