@@ -1,10 +1,12 @@
-#vagrant-webgoat
+#webgoat-vm
 
-A Virtual Machine setup for WebGoat.
+Play around with hacking a deliberately insecure web application.
 
-This is a ***VagrantUP Virtual Machine*** that downloads Ubuntu and installs Tomcat Server and the WebGoat application. It's ready for practicing penetration testing once booted within minutes!
+This Virtual Machine setup for WebGoat 7.0 uses  ***VagrantUP Virtual Machine*** to download Ubuntu and install Tomcat Server and the WebGoat application. It's ready for practicing penetration testing once booted within minutes!
 
-When the virtual machine boots, WebGoat and it's dependancies are installed and ready to play with on http://127.0.0.1:50000/WebGoat/attack
+When the virtual machine boots, WebGoat and it's dependancies are installed and ready to play with on:
+
+http://127.0.0.1:50000/WebGoat
 
 ##Introduction
 
